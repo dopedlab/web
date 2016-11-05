@@ -1,0 +1,26 @@
+
+body {
+	background-color: #334455
+}
+
+div {
+	background-color: #99AABB;
+	width: 640px;
+	margin: 10px;
+	padding: 10px;
+	color: #EEE;
+
+}
+
+div>* {
+	color: black;
+	margin: 5px;
+}
+
+.exp {
+	background-color: #8899AA;
+	margin: 3px 10px;
+	width: 600px;
+
+}
+
